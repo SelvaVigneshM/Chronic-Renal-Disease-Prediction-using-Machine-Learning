@@ -1,4 +1,4 @@
-# Chronic Renal Disease Prediction using Machine Learning🩺🔮
+# Chronic Renal Disease Prediction using Machine Learning🩺🏥🔮
 
 # Project Motto✔️
 This project aims to develop a chronic kidney disease prediction model to predict whether the given patient is positive or negative for the disease based on training from the given dataset.
