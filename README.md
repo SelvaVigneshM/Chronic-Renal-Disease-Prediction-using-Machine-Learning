@@ -20,4 +20,4 @@ In today's era everyone is trying to be conscious about health even through the 
 # Models and their performance🌟
 ![image](https://user-images.githubusercontent.com/76680213/141098703-e2284af4-faee-4733-bd29-dfa05438cb92.png)
 
-# Haooy Coding!😊
+# Happy Coding!😊
